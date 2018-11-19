@@ -1,4 +1,8 @@
-﻿using System;
+exercicio n: 28 pag: 110
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
